@@ -60,5 +60,5 @@ dependencies {
     debugImplementation(libs.androidx.compose.ui.test.manifest)
     implementation(platform(libs.firebase.bom))
     implementation("com.google.firebase:firebase-analytics")
-    implementation(libs.firebase.ai)
+    implementation("com.google.firebase:firebase-ai")
 }
