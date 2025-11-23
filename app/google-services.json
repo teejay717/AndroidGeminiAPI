@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496295849386",
+    "project_id": "teejayscommoncompani-852a3782",
+    "storage_bucket": "teejayscommoncompani-852a3782.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496295849386:android:ae7b96e1da494f1e0a8fd3",
+        "android_client_info": {
+          "package_name": "com.example.teejayscommoncompanion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAsTMfGjWc9cYOZkJjj5fExVKoO7Z1paI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
